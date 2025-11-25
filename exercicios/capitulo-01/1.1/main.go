@@ -1,10 +1,11 @@
+package main
+
 /*
 	1.1 -> suponha que você tenha uma lista com 128 nomes e esteja fazendo uma pesquisa binaria. Qual seria o numero maximo de etapas que você levaria para encontrar o nome desejado?
 
+	log2(128) = 7
 	r: 7 tentativas
 */
-
-package main
 
 import (
 	"fmt"

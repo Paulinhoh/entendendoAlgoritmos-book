@@ -1,10 +1,11 @@
+package main
+
 /*
 	1.2 -> suponha que você duplique o tamanho da lista. Qual seria o numero maximo de etapas agora?
 
+	log2(256) = 8
 	r: 8 tentativas
 */
-
-package main
 
 import (
 	"fmt"
